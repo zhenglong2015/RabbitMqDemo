@@ -1,0 +1,11 @@
+E:\学习测试项目\RabbitMq\FanOutSub\bin\Debug\netcoreapp2.1\FanOutSub.deps.json
+E:\学习测试项目\RabbitMq\FanOutSub\bin\Debug\netcoreapp2.1\FanOutSub.runtimeconfig.json
+E:\学习测试项目\RabbitMq\FanOutSub\bin\Debug\netcoreapp2.1\FanOutSub.runtimeconfig.dev.json
+E:\学习测试项目\RabbitMq\FanOutSub\bin\Debug\netcoreapp2.1\FanOutSub.dll
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.csproj.CoreCompileInputs.cache
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.AssemblyInfoInputs.cache
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.AssemblyInfo.cs
+E:\学习测试项目\RabbitMq\FanOutSub\bin\Debug\netcoreapp2.1\FanOutSub.pdb
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.dll
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.pdb
+E:\学习测试项目\RabbitMq\FanOutSub\obj\Debug\netcoreapp2.1\FanOutSub.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.deps.json
+E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.runtimeconfig.json
+E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.runtimeconfig.dev.json
+E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.dll
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.csproj.CoreCompileInputs.cache
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.AssemblyInfoInputs.cache
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.AssemblyInfo.cs
+E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.pdb
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.csprojAssemblyReference.cache
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.dll
+E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.pdb

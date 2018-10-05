@@ -1,0 +1,11 @@
+E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.deps.json
+E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.runtimeconfig.json
+E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.runtimeconfig.dev.json
+E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.dll
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.csprojAssemblyReference.cache
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.csproj.CoreCompileInputs.cache
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.AssemblyInfoInputs.cache
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.AssemblyInfo.cs
+E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.pdb
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.dll
+E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.pdb

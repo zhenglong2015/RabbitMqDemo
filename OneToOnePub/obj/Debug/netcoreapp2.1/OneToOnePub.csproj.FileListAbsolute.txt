@@ -1,0 +1,11 @@
+E:\学习测试项目\RabbitMq\OneToOnePub\bin\Debug\netcoreapp2.1\OneToOnePub.deps.json
+E:\学习测试项目\RabbitMq\OneToOnePub\bin\Debug\netcoreapp2.1\OneToOnePub.runtimeconfig.json
+E:\学习测试项目\RabbitMq\OneToOnePub\bin\Debug\netcoreapp2.1\OneToOnePub.runtimeconfig.dev.json
+E:\学习测试项目\RabbitMq\OneToOnePub\bin\Debug\netcoreapp2.1\OneToOnePub.dll
+E:\学习测试项目\RabbitMq\OneToOnePub\bin\Debug\netcoreapp2.1\OneToOnePub.pdb
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.csproj.CoreCompileInputs.cache
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.AssemblyInfoInputs.cache
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.AssemblyInfo.cs
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.dll
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.pdb
+E:\学习测试项目\RabbitMq\OneToOnePub\obj\Debug\netcoreapp2.1\OneToOnePub.csprojAssemblyReference.cache

@@ -9,3 +9,14 @@ E:\学习测试项目\RabbitMq\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.pdb
 E:\学习测试项目\RabbitMq\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.csprojAssemblyReference.cache
 E:\学习测试项目\RabbitMq\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.dll
 E:\学习测试项目\RabbitMq\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.pdb
+D:\WorkSpace\RabbitMqDemo\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.deps.json
+D:\WorkSpace\RabbitMqDemo\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.runtimeconfig.json
+D:\WorkSpace\RabbitMqDemo\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.runtimeconfig.dev.json
+D:\WorkSpace\RabbitMqDemo\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.dll
+D:\WorkSpace\RabbitMqDemo\DirectPub\bin\Debug\netcoreapp2.1\DirectPub.pdb
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.AssemblyInfoInputs.cache
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.AssemblyInfo.cs
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.dll
+D:\WorkSpace\RabbitMqDemo\DirectPub\obj\Debug\netcoreapp2.1\DirectPub.pdb

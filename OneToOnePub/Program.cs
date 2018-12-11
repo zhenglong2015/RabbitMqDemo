@@ -16,10 +16,10 @@ namespace OneToOnePub
             Console.WriteLine("Start");
             IConnectionFactory conFactory = new ConnectionFactory//创建连接工厂对象
             {
-                HostName = "localhost",//IP地址
+                HostName = "192.168.1.107",//IP地址
                 Port = 5672,//端口号
-                UserName = "guest",//用户账号
-                Password = "guest"//用户密码
+                UserName = "ztb",//用户账号
+                Password = "123"//用户密码
             };
             using (IConnection con = conFactory.CreateConnection())//创建连接对象
             {

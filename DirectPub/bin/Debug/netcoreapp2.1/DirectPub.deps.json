@@ -669,7 +669,7 @@
     "RabbitMQ.Client/5.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-oMXzDw2NLDHYlAYVJs5AHZDGkTsuzmaAPNfHjgkPqq3VfnxAXgsJ643ts6xsdXJftpwPbDAwN5YP65lHm+MiNg==",
+      "sha512": "sha512-6TzFS2nlpiqKX7joVM+ViYY+rtHdYLnXkv2aNsXXJXlEbDhgf1iNBUgelPlgQUpKWoL9yUfMpTroNgEljB2HuA==",
       "path": "rabbitmq.client/5.1.0",
       "hashPath": "rabbitmq.client.5.1.0.nupkg.sha512"
     },

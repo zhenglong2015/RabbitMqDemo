@@ -9,3 +9,14 @@ E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.Assem
 E:\学习测试项目\RabbitMq\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.pdb
 E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.dll
 E:\学习测试项目\RabbitMq\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.pdb
+D:\WorkSpace\RabbitMqDemo\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.deps.json
+D:\WorkSpace\RabbitMqDemo\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.runtimeconfig.json
+D:\WorkSpace\RabbitMqDemo\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.runtimeconfig.dev.json
+D:\WorkSpace\RabbitMqDemo\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.dll
+D:\WorkSpace\RabbitMqDemo\WorkerPub\bin\Debug\netcoreapp2.1\WorkerPub.pdb
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.AssemblyInfoInputs.cache
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.AssemblyInfo.cs
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.dll
+D:\WorkSpace\RabbitMqDemo\WorkerPub\obj\Debug\netcoreapp2.1\WorkerPub.pdb

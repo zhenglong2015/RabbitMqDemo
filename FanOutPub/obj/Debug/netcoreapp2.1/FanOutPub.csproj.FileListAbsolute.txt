@@ -9,3 +9,14 @@ E:\学习测试项目\RabbitMq\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.pdb
 E:\学习测试项目\RabbitMq\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.dll
 E:\学习测试项目\RabbitMq\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.pdb
 E:\学习测试项目\RabbitMq\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.deps.json
+D:\WorkSpace\RabbitMqDemo\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.runtimeconfig.json
+D:\WorkSpace\RabbitMqDemo\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.runtimeconfig.dev.json
+D:\WorkSpace\RabbitMqDemo\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.dll
+D:\WorkSpace\RabbitMqDemo\FanOutPub\bin\Debug\netcoreapp2.1\FanOutPub.pdb
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.AssemblyInfoInputs.cache
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.AssemblyInfo.cs
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.dll
+D:\WorkSpace\RabbitMqDemo\FanOutPub\obj\Debug\netcoreapp2.1\FanOutPub.pdb

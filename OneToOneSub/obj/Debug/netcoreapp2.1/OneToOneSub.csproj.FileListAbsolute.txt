@@ -9,3 +9,14 @@ E:\学习测试项目\RabbitMq\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.A
 E:\学习测试项目\RabbitMq\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.dll
 E:\学习测试项目\RabbitMq\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.pdb
 E:\学习测试项目\RabbitMq\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\bin\Debug\netcoreapp2.1\OneToOneSub.deps.json
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\bin\Debug\netcoreapp2.1\OneToOneSub.runtimeconfig.json
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\bin\Debug\netcoreapp2.1\OneToOneSub.runtimeconfig.dev.json
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\bin\Debug\netcoreapp2.1\OneToOneSub.dll
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\bin\Debug\netcoreapp2.1\OneToOneSub.pdb
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.AssemblyInfoInputs.cache
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.AssemblyInfo.cs
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.dll
+D:\WorkSpace\RabbitMqDemo\OneToOneSub\obj\Debug\netcoreapp2.1\OneToOneSub.pdb

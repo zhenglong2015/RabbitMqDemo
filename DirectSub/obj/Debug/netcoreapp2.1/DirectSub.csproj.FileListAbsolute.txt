@@ -9,3 +9,14 @@ E:\学习测试项目\RabbitMq\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.pdb
 E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.csprojAssemblyReference.cache
 E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.dll
 E:\学习测试项目\RabbitMq\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.pdb
+D:\WorkSpace\RabbitMqDemo\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.deps.json
+D:\WorkSpace\RabbitMqDemo\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.runtimeconfig.json
+D:\WorkSpace\RabbitMqDemo\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.runtimeconfig.dev.json
+D:\WorkSpace\RabbitMqDemo\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.dll
+D:\WorkSpace\RabbitMqDemo\DirectSub\bin\Debug\netcoreapp2.1\DirectSub.pdb
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.csprojAssemblyReference.cache
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.csproj.CoreCompileInputs.cache
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.AssemblyInfoInputs.cache
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.AssemblyInfo.cs
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.dll
+D:\WorkSpace\RabbitMqDemo\DirectSub\obj\Debug\netcoreapp2.1\DirectSub.pdb
